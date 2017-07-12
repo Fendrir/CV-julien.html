@@ -1,0 +1,138 @@
+
+body {
+
+background-image:url("../Fond-abstrait.jpg");
+
+}
+
+h1{
+
+color: blue;
+font-family: Tahoma, sans-serif;
+font-style: bold;
+font-size: 28px;
+text-align: center;
+
+}
+
+.title {
+
+color: blue;
+font-family: Tahoma, sans-serif;
+font-style: bold;
+font-size: 24px;
+text-align: center;
+}
+
+.info-perso {
+
+margin-top: 30px;
+color: #000000;
+font-family: Tahoma, sans-serif; 
+font-style: bold;
+font-size: 18px;
+
+}
+
+header{
+
+display: flex;
+justify-content: space-between;
+
+}
+
+h3 {
+
+color: orange;
+font-family: Tahoma, sans-serif;
+font-style: bold;
+font-size: 20px;
+margin-left: 10%;
+padding-left: 10px; 
+
+}
+
+h4{
+
+color: orange;
+font-family: Tahoma, sans-serif;
+font-style: bold;
+font-size: 20px;
+margin-left: 10%;
+padding-left: 10px; 
+
+}
+
+p {
+
+font-family: Tahoma, sans-serif;
+font-size: 16px;
+justify-content: center;
+
+}
+
+
+.text-content {
+
+display: flex;
+text-align: left;
+flex-direction: column;
+margin-left: 10%;
+margin-right: 10%;
+border-left: 5px;
+border-left-style: solid;
+border-color: orange;
+padding-left: 20px; 
+ 
+display:flex;
+justify-content: space-between;
+
+}
+
+.text-content-blue {
+
+display: flex;
+text-align: left;
+flex-direction: column;
+margin-left: 10%;
+margin-right: 10%;
+border-left: 5px;
+border-left-style: solid;
+border-color: blue;
+padding-left: 20px; 
+
+display:flex;
+justify-content: space-between;
+
+}
+
+.aspirateur{
+
+	width: 200px;
+	height: 200px;
+	border-width: 1px;
+	border-style: solid;
+	border-radius:10%;
+	margin-top: 10px;
+}
+
+ul {
+font-family: Tahoma, sans-serif; 
+list-style-type:none;
+
+}
+
+.res-social{
+display: flex;
+justify-content: center;
+margin-left: 10%;
+margin-right: 10%;
+
+}
+
+.texte-social{
+
+padding-left: 5%;
+padding-right: 20%;
+}
+
